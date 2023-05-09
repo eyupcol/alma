@@ -1,3 +1,6 @@
+def hi():
+    print("hi")
+    
 def hello_World():
     return "Hello World"
 
